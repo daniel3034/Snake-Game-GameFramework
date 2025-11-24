@@ -48,7 +48,6 @@ py snake_game.py
 ## Files
 
 - `snake_game.py` — main game implementation
-- `LEARNING_GUIDE.md` — step-by-step code walkthrough and exercises
 - `requirements.txt` — required packages
 - `assets/` — put sound files here (see `assets/README.md`)
 - `save_slot.json` — optional save file created at runtime
