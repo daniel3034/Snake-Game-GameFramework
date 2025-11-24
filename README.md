@@ -49,7 +49,7 @@ py snake_game.py
 
 - `snake_game.py` — main game implementation
 - `requirements.txt` — required packages
-- `assets/` — put sound files here (see `assets/README.md`)
+- `assets/` — sound files here (see `assets/README.md`)
 - `save_slot.json` — optional save file created at runtime
 - `highscore.json` — persistent high score storage
 
